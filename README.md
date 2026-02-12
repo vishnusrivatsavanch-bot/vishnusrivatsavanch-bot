@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Vishnu Nallan<br>Business Analyst | Data Strategist | Automation Enthusiast<br><br>I am an "eternal student" of data who doesn't just mine information—I translate it into revenue-generating strategies and operational efficiencies. With a background from Healthcare Data analyst to an MBA in Marketing Analytics, I bring a structural mindset to solving complex digital problems.
+Hi, I’m Vishnu Nallan<br>Business Analyst | Data Strategist | Automation Enthusiast<br><br>I am an "eternal student" of data who doesn't just mine information, I translate it into revenue-generating strategies and operational efficiencies. With a background from Healthcare Data analyst to an MBA in Marketing Analytics, I bring a structural mindset to solving complex digital problems.
 
 
 # 💻 Tech Stack:
